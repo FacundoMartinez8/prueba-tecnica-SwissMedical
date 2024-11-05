@@ -19,22 +19,6 @@ class OnMoviesPopular extends HomePageState {
   OnMoviesPopular({required this.moviesPopular});
 }
 
-class OnMoviesByNameFailure extends HomePageState {
-  final Failure failure;
-
-  OnMoviesByNameFailure({required this.failure});
-}
-
-class OnMoviesByName extends HomePageState {
-  final List<Movie> moviesByName;
-
-  OnMoviesByName({required this.moviesByName});
-}
-
-class OnMoviesFavorite extends HomePageState {
-  OnMoviesFavorite();
-}
-
 class OnMoviesTopRatedFailure extends HomePageState {
   final Failure failure;
 

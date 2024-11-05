@@ -9,16 +9,6 @@ class GetPopularMovieEvent extends HomePageEvent {
   GetPopularMovieEvent({required this.noParams});
 }
 
-class GetMovieByNameEvent extends HomePageEvent {
-  final String name;
-
-  GetMovieByNameEvent({required this.name});
-}
-
-class SetFavorite extends HomePageEvent {
-  SetFavorite();
-}
-
 class GetMoviesTopRatedEvent extends HomePageEvent {
   final NoParams noParams;
 

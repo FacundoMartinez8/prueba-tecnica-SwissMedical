@@ -1,17 +1,7 @@
 # prueba_tecnica_swiss_medical
 
-A new Flutter project.
+create .env file in the root with the credentials
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# prueba-tecnica-SwissMedical
+TMBD_URL=https://api.themoviedb.org/3
+API_KEY=eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1NDI5YzFhZjU0ODE2NzZiMzEwYWUyMDYzNDc4OTAxZiIsInN1YiI6IjY0M2IyZDQ0NGQ2NzkxMDQ2OWQ3MzY0YSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.F9wavWbmbgy8Fpy7HLYq4bAZeWg_fKPlLIv1fqMTd8o
